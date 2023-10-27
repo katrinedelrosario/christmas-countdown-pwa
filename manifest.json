@@ -1,0 +1,8 @@
+{
+    "name": "christmas eve countdown",
+    "short_name": "chrismas-countdown",
+    "start_url": "/index.html",
+    "decsription": "a daily countdown for christmas eve!",
+    "id": "/index.html",
+    "display": "standalone"
+}
